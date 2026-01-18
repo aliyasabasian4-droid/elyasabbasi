@@ -1,0 +1,9 @@
+{
+  "name": "توفير تايم - Tawfeer Time",
+  "description": "منصة شاملة للبيع والشراء، حجز الاستراحات، وقطع الغيار مع دردشة مباشرة وميزات ذكية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
